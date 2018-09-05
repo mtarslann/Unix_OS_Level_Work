@@ -1,5 +1,3 @@
-//Mustafa Talha Arslan 250201067 - OS HW2 - Fall 2017
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
