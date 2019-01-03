@@ -1,8 +1,8 @@
-# Unix_OS_Level_Work
-### Unix Threads, Synchronization,Deadlock and Starvation Implementation
+# Linux_OS_Level_Work
+### Linux Threads, Synchronization,Deadlock and Starvation Implementation
 
 ##### This project coded to carry out these conditions ( More details in pdf file ):
-  Implement a C program that is explained below using Unix. You should implement a multi-threaded program that operates files that are filled with random numbers. Your program requires three types of threads:
+  Implement a C program that is explained below using Linux(Antergos). You should implement a multi-threaded program that operates files that are filled with random numbers. Your program requires three types of threads:
   
         A. Cutting and Pasting threads.
         B. Prime number removing threads.
